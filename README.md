@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I’m Robin 👋
+**Junior DevOps Engineer | AWS | Docker | Kubernetes | CI/CD | Immediate Joiner**
 
-<!--
-**RobinSishodia/RobinSishodia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 India • 💼 Seeking Entry-Level DevOps Roles
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- Cloud: AWS (EC2, IAM, VPC)
+- Containers: Docker, Kubernetes
+- CI/CD: Jenkins, GitHub Actions
+- IaC: Terraform, Ansible
+- Monitoring: Prometheus, Grafana
+- Version Control: Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Projects
+⭐ [aws-eks-gitops-argocd](https://github.com/RobinSishodia/aws-eks-gitops-argocd)  
+⭐ [jenkins-devsecops-pipeline](https://github.com/RobinSishodia/jenkins-devsecops-pipeline)  
+⭐ [terraform-ansible-aws-infra](https://github.com/RobinSishodia/terraform-ansible-aws-infra)
+
+## 📌 Let’s build and deploy!
+
