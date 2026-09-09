@@ -1,6 +1,6 @@
 # Hi, I'm Robin 👋
 
-**Salesforce Administrator | Certified Platform Administrator & Advanced Administrator · Platform App Builder · Agentforce Specialist | Agentblazer Champion '26**
+**Salesforce Administrator | Certified Platform Administrator & Advanced Administrator · Platform App Builder · Agentforce Specialist | Agentblazer Champion '26 | Agentblazer Innovator '26**
 
 Also building DevOps fundamentals hands-on — AWS, Docker, Kubernetes, CI/CD.
 
