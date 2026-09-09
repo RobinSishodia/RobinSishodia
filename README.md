@@ -10,11 +10,10 @@ Also building DevOps fundamentals hands-on — AWS, Docker, Kubernetes, CI/CD.
 
 ## 🏅 Trailhead
 
-**Ranger** · 150 badges · 66,775 points · 10 trails · 6 superbadges · Agentblazer Champion '26
-
+**Ranger** · 150 badges · 66,775 points · 10 trails · 6 superbadges · Agentblazer Champion '26 · Agentblazer Innovator '26
 ## 🏅 Certifications
 
-`Salesforce Certified Platform Administrator` `Advanced Administrator` `Platform App Builder` `Agentforce Specialist` `Platform Foundation` `AWS Certified AI Practitioner` `AWS Certified Cloud Practitioner` `Copado AI`
+`Salesforce Certified Platform Administrator` `Advanced Administrator` `Platform App Builder` `Agentforce Specialist` `Platform Foundation` `AWS Certified DevOps Engineer - Professional` `AWS Certified AI Practitioner` `AWS Certified Cloud Practitioner` `GitHub Foundation` `GitHub Action` `Copado AI`
 
 ## 📂 Salesforce — hands-on (Trailhead)
 
