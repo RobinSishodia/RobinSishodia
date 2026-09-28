@@ -22,7 +22,7 @@ I configure and automate Salesforce orgs — users & security, Flows, reports, a
 | Agentforce Specialist | | |
 | Platform Foundations | | |
 
-**Trailhead:** Double Star Ranger · 250+ badges · 19 trails · 7 superbadges
+**Trailhead:** Double Star Ranger · 248 badges · 102,650 points · 19 trails · 7 superbadges (Agentforce Service Agents, Flow Optimization, Flow Administration, Flow Fundamentals, Data Stream Fundamentals, MFA & SSO Settings, Prompt Builder Templates)
 
 ---
 
