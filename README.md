@@ -1,41 +1,55 @@
 # Hi, I'm Robin 👋
 
-**Salesforce Administrator | Certified Platform Administrator & Advanced Administrator · Platform App Builder · Agentforce Specialist | Agentblazer Champion '26 | Agentblazer Innovator '26**
+**Salesforce Administrator** · 11× certified (Salesforce · AWS · GitHub · Copado) · Trailhead Double Star Ranger · Agentblazer Champion & Innovator '26
 
-Also building DevOps fundamentals hands-on — AWS, Docker, Kubernetes, CI/CD.
+I configure and automate Salesforce orgs — users & security, Flows, reports, and Agentforce — and I'm building AWS/DevOps skills alongside it (Terraform, Docker, Kubernetes, CI/CD).
+**Open to:** Salesforce Administrator · CRM Support · Salesforce Ops · Cloud/DevOps Support roles — **immediate joiner**.
 
-📍 India · 🌐 [Portfolio](https://robinsishodia.github.io/) · 💼 [LinkedIn](https://www.linkedin.com/in/robinsishodia/) · 🏅 [Trailhead](https://www.salesforce.com/trailblazer/robin11)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-robinsishodia-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robinsishodia)
+[![Portfolio](https://img.shields.io/badge/Portfolio-robinsishodia.github.io-222?logo=githubpages&logoColor=white)](https://robinsishodia.github.io)
+[![Email](https://img.shields.io/badge/Email-robin.sishodia%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:robin.sishodia@gmail.com)
+[![Trailhead](https://img.shields.io/badge/Trailhead-Double%20Star%20Ranger-00A1E0?logo=salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/robin11)
 
-4+ years across operations, banking and recruitment, now focused on Salesforce administration, configuration and automation, with cloud/DevOps fundamentals built alongside it.
+---
 
-## 🏅 Trailhead
+### 🏅 Certifications
 
-**Ranger** · 150 badges · 66,775 points · 10 trails · 6 superbadges · Agentblazer Champion '26 · Agentblazer Innovator '26
-## 🏅 Certifications
+| Salesforce | AWS | GitHub & DevOps |
+|---|---|---|
+| Platform Administrator | DevOps Engineer – Professional | GitHub Foundations |
+| Platform Administrator II | AI Practitioner | GitHub Actions |
+| Platform App Builder | Cloud Practitioner | Copado AI |
+| Agentforce Specialist | | |
+| Platform Foundations | | |
 
-`Salesforce Certified Platform Administrator` `Advanced Administrator` `Platform App Builder` `Agentforce Specialist` `Platform Foundation` `AWS Certified DevOps Engineer - Professional` `AWS Certified AI Practitioner` `AWS Certified Cloud Practitioner` `GitHub Foundation` `GitHub Action` `Copado AI`
+**Trailhead:** Double Star Ranger · 250+ badges · 19 trails · 7 superbadges
 
-## 📂 Salesforce — hands-on (Trailhead)
+---
 
-- **Coral Cloud Resort** — Salesforce administration applied to a full business scenario
-- **Agentforce — Employee Agents** — AI agent configuration for business interactions
-- **Data 360 & Agentforce** — unified data behind AI-driven CRM experiences
-- **Salesforce Flow & Business Process Automation** — record-triggered automation
-- **Salesforce Prompt Builder & AI** — generative AI templates using CRM data
-- **Salesforce Org & User Administration** — profiles, roles, permission sets
+### 🧰 Skills
 
-## 📂 DevOps — hands-on (GitHub)
+**Salesforce:** Users, Profiles, Roles & Permission Sets · Sharing & Security · Record-Triggered & Screen Flows · Validation Rules · Reports & Dashboards · Data Loader / Import Wizard · Agentforce & Prompt Builder · Data Cloud · Salesforce DX / CLI
 
-**[End-to-End CI/CD & GitOps on AWS EKS](https://github.com/RobinSishodia/End-to-End-CI-CD-GitOps-Deployment-on-AWS-EKS)**
-Terraform → Jenkins → Docker → ArgoCD → EKS, monitored with Prometheus/Grafana.
+**Cloud & DevOps:** AWS (EC2, IAM, VPC, S3, EKS) · Terraform · Ansible · Docker · Kubernetes · Jenkins · GitHub Actions · ArgoCD · Prometheus & Grafana · Linux & Bash · Git
 
-**[Jenkins DevSecOps Pipeline](https://github.com/RobinSishodia/jenkins-devsecops-pipeline)**
-SonarQube + Trivy gates built into the CI/CD pipeline before deploy to EC2.
+---
 
-**[Terraform + Ansible AWS Infra](https://github.com/RobinSishodia/terraform-ansible-aws-infra)**
-Modular AWS infrastructure as code with Ansible configuration management.
+### 📂 Featured work
 
-## 📫 Reach me
+| Project | What it shows | Stack |
+|---|---|---|
+| [salesforce-devops-pipeline](https://github.com/RobinSishodia/salesforce-devops-pipeline) | Source-driven Salesforce metadata CI/CD | Salesforce DX, GitHub Actions, Copado |
+| [Coral Cloud Resort (Trailhead)](https://www.salesforce.com/trailblazer/robin11) | Salesforce admin applied to a full business scenario | Flow, security model, Agentforce |
+| [aws-eks-gitops-argocd](https://github.com/RobinSishodia/aws-eks-gitops-argocd) 🚧 | GitOps delivery to EKS | Terraform, Jenkins, Docker, ArgoCD |
+| [jenkins-devsecops-pipeline](https://github.com/RobinSishodia/jenkins-devsecops-pipeline) 🚧 | Quality & security gates before deploy | Jenkins, SonarQube, Trivy, EC2 |
+| [terraform-ansible-aws-infra](https://github.com/RobinSishodia/terraform-ansible-aws-infra) 🚧 | Modular AWS infra + config management | Terraform, Ansible |
 
-- Email: robin.sishodia@gmail.com.com
-- LinkedIn: [in/robinsishodia](https://www.linkedin.com/in/robinsishodia/)
+🚧 = actively being built — code and screenshots being added step by step.
+
+---
+
+### 💼 Background
+
+4+ years in operations, banking and recruitment (Genpact, Bandhan Bank) — process, SLAs and stakeholder work that carries straight into CRM administration. MBA (Finance & Marketing).
+
+📍 India · 📫 [robin.sishodia@gmail.com](mailto:robin.sishodia@gmail.com)
