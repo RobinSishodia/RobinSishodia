@@ -41,6 +41,8 @@ I configure and automate Salesforce orgs — users & security, Flows, reports, a
 |---|---|---|
 | [salesforce-devops-pipeline](https://github.com/RobinSishodia/salesforce-devops-pipeline) | Source-driven Salesforce metadata CI/CD | Salesforce DX, GitHub Actions, Copado |
 | [devops-salesforce-notes](https://github.com/RobinSishodia/devops-salesforce-notes) | Automated blog backup — a GitHub Actions workflow converts my Hashnode RSS feed into Markdown | GitHub Actions, Python |
+| [repo-health-report](https://github.com/RobinSishodia/repo-health-report) | GitHub API tool that audits repos for missing licenses, topics, READMEs and stale PRs, run on a schedule as a GitHub Action | Python, GitHub REST API, GitHub Actions |
+| [120-days-of-aws](https://github.com/RobinSishodia/120-days-of-aws) | One AWS topic a day: write-up, cheat sheet and hands-on lab | AWS, IAM, EC2, VPC, S3 |
 | [Coral Cloud Resort (Trailhead)](https://www.salesforce.com/trailblazer/robinsishodia) | Salesforce admin applied to a full business scenario | Flow, security model, Agentforce |
 | [aws-eks-gitops-argocd](https://github.com/RobinSishodia/aws-eks-gitops-argocd) 🚧 | GitOps delivery to EKS | Terraform, Jenkins, Docker, ArgoCD |
 | [jenkins-devsecops-pipeline](https://github.com/RobinSishodia/jenkins-devsecops-pipeline) 🚧 | Quality & security gates before deploy | Jenkins, SonarQube, Trivy, EC2 |
